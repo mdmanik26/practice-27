@@ -1,0 +1,526 @@
+@media (max-width:1365px) {
+    .section_Container {
+        max-width: 95%;
+    }
+
+    .banner_Bottom {
+        padding: 100px 0px;
+    }
+
+    .firstPart h1 {
+        width: 100%;
+        float: none;
+        text-align: center;
+        padding-left: 0px;
+    }
+
+    .firstPart p {
+        width: 75%;
+        text-align: center;
+        float: none;
+        margin: auto;
+    }
+
+
+
+
+
+
+
+    .pInfo {
+        width: 50%;
+        height: 288px;
+        display: block;
+    }
+
+    .imgLeft {
+        width: 100%;
+        float: none;
+        margin: 0px 0px 15px 0px;
+    }
+
+    .imgRight {
+        width: 100%;
+        float: none;
+    }
+
+
+}
+
+
+@media (max-width:1250px) {
+    .price {
+        width: 47%;
+        margin-bottom: 15px;
+    }
+
+    .pricePart .ans {
+        font-size: 20px;
+    }
+
+    .lastPrice {
+        margin: auto;
+    }
+
+    .member {
+        margin-right: 22px;
+        width: 23%;
+
+    }
+}
+
+
+
+
+@media (max-width:1224px) {
+    .left_Side_element {
+        width: 100%;
+        margin: auto;
+        text-align: center;
+        float: none;
+    }
+
+    .right_Side_element {
+        max-width: 100%;
+        margin-top: 24px;
+        float: none;
+    }
+
+    .right_Side_element p {
+        margin: 10px 0px;
+        text-align: justify;
+        line-height: 30px;
+    }
+
+    span {
+        font-size: 30px;
+    }
+
+    .service_Card {
+        padding: 22px 16px;
+        width: 30%;
+        margin-right: 32px;
+
+    }
+
+    .user1 {
+        width: 32%;
+        margin-right: 17px;
+    }
+
+    .user1 .loremText {
+        line-height: 23px;
+      
+    }
+
+
+
+}
+
+
+
+@media (max-width:1024px) {
+    .header_Logo a {
+        font-size: 24px;
+    }
+
+    .header_Logo {
+        width: 28%;
+        padding-left: 0px;
+    }
+
+    .header_menu {
+        width: 56%;
+        text-align: center;
+    }
+
+    .header_button {
+        width: 16%;
+    }
+
+
+
+    .banner {
+        padding: 150px 0px;
+    }
+
+    .banner h2 {
+        font-size: 41px;
+    }
+
+    .service_Card {
+        width: 45%;
+    }
+
+
+    .section_Title h1 {
+        font-size: 34px;
+    }
+
+    .section_Title p {
+        margin-top: 15px;
+    }
+
+    .services {
+        padding: 30px 0px;
+    }
+
+    .member {
+        margin-right: 36px;
+        width: 45%;
+        margin-bottom: 20px;
+    }
+
+    .pInfo {
+        height: 207px;
+    }
+
+    .rightContainer {
+        max-width: 725px;
+        margin: auto;
+    }
+
+    .leftContainer {
+        max-width: 725px;
+        margin: auto;
+    }
+
+    .map {
+        width: 100%;
+        float: none;
+    }
+
+    .contact_Form {
+        width: 100%;
+        float: none;
+    }
+
+    .head {
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .cont_Info {
+        padding: 20px 10px;
+        text-align: center;
+    }
+
+    .na_ph {
+        width: 46%;
+    }
+
+
+
+
+
+}
+
+
+@media (max-width:994px) {
+    .user1 .loremText {
+        padding: 19px;
+        font-size: 15px;
+
+    }
+
+    .user1 {
+        width: 31%;
+
+    }
+
+    .manContainer {
+        width: 95%;
+        margin: auto;
+    }
+
+    .manInfo h4{
+        font-size: 16px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:767px) {
+    .header_Logo {
+        width: 100%;
+        padding-left: 0px;
+        text-align: center;
+    }
+
+    .header_menu {
+        width: 56%;
+        text-align: left;
+    }
+
+    .mani_Menu {
+        display: none;
+    }
+
+    .header_button {
+        width: 26%;
+        float: right;
+        text-align: right;
+        margin-top: -23px;
+    }
+
+
+    .barIcon {
+        display: block;
+    }
+
+
+    .banner h2 {
+        font-size: 35px;
+    }
+
+    .banner h3 {
+        font-size: 16px;
+    }
+
+    .banner a {
+        padding: 8px 9px;
+        font-size: 14px;
+    }
+
+    .banner {
+        padding: 90px 0px;
+    }
+
+    .right_Side_element h2 {
+        font-size: 35px;
+    }
+
+    .banner_Bottom {
+        padding: 26px 0px;
+    }
+
+
+    .service_Card {
+        width: 100%;
+    }
+
+    .services {
+        padding: 20px 0px;
+    }
+
+
+    .price {
+        width: 100%;
+        margin-bottom: 15px;
+        float: none;
+    }
+
+    .subsHeader h1 {
+        font-size: 40px;
+    }
+
+    .subsHeader p {
+        font-size: 17px;
+
+    }
+
+    .member {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .rightContainer {
+        max-width: 403px;
+        margin: auto;
+    }
+
+    .leftContainer {
+        max-width: 403px;
+        margin: auto;
+    }
+
+    .pInfo p {
+        font-size: 18px;
+        padding: 10px;
+        line-height: 24px;
+    }
+
+    .pInfo h3 {
+        font-size: 20px;
+        padding: 0px 0px 0px 10px;
+    }
+
+    .pInfo {
+        height: 98px;
+    }
+
+    .firstPart p {
+        font-size: 18px;
+        line-height: 25px;
+    }
+
+    .whatsnew {
+        padding: 40px 0px;
+
+    }
+    .user1 {
+        width: 100%;
+        float: none;
+    }
+
+    .user1 .loremText {
+        padding: 40px;
+        font-size: 20px;
+        line-height: 34px;
+    }
+
+    .user h1 {
+        padding: 30px 5px;
+        font-size: 33px;
+    }
+
+
+}
+
+
+@media (max-width:599px) {
+    .form {
+        width: 100%;
+    }
+
+    .first_Input {
+        width: 100%;
+    }
+
+    .last_Input {
+        width: 100%;
+    }
+
+    .subBtn {
+        width: 96% !important;
+
+    }
+
+    .na_ph {
+        width: 97%;
+        float: none;
+    }
+
+    .form_Container {
+        padding: 0px 10px;
+    }
+
+    .contact {
+        padding: 0px 0px;
+    }
+
+}
+
+
+
+
+@media (max-width:424px) {
+    .header_menu {
+        width: 40%;
+        text-align: left;
+    }
+
+    .barIcon {
+        font-size: 25px;
+    }
+
+
+    .header_button {
+        width: 40%;
+        float: right;
+        text-align: right;
+        margin-top: -17px;
+    }
+
+    .header_Logo {
+        margin-bottom: 20px;
+    }
+
+
+    .header_button a {
+        padding: 5px 8px;
+        font-size: 14px;
+    }
+
+    .banner h3 {
+        font-size: 13px;
+    }
+
+    .banner h2 {
+        font-size: 30px;
+    }
+
+    .banner a {
+        display: block;
+        padding: 12px 15px;
+        width: 85%;
+        margin: 0px auto 20px;
+    }
+
+    .right_Side_element h2 {
+        font-size: 20px;
+        font-weight: 600;
+    }
+
+    .right_Side_element p {
+        line-height: 25px;
+        font-size: 14px;
+    }
+
+
+    .section_Title h1 {
+        font-size: 25px;
+    }
+
+    .services {
+        padding: 10px 0px;
+    }
+
+    .newsLetter p {
+        font-size: 18px;
+    }
+
+    .newsLetter h1 {
+        font-size: 32px;
+    }
+
+    .rightContainer {
+        max-width: 356px;
+        margin: auto;
+    }
+
+    .leftContainer {
+        max-width: 356px;
+        margin: auto;
+    }
+
+    .pInfo p {
+        font-size: 14px;
+        padding: 5px;
+        line-height: 24px;
+    }
+
+    .pInfo h3 {
+        font-size: 18px;
+        padding: 0px 0px 0px 5px;
+    }
+
+    .pInfo {
+        height: 82px;
+    }
+
+    footer p {
+        word-spacing: 0px;
+        font-size: 17px;
+    }
+
+
+}
